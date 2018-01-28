@@ -4,7 +4,7 @@ $email = $_POST['form-contact-email'];
 $message = $_POST['form-contact-message'];
 
 $to = 'domain@example.com';
-$subject = 'Message From Zoner';
+$subject = 'Message From Community Safe Space';
 
 $body = "";
 $body .= "Name: ";

@@ -2,16 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7862159-3482-4c3c-b132-d7a85a3eb680" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/yukodit-logo-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/yukodit-logo.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/403.html" afterPath="$PROJECT_DIR$/403.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/500.html" afterPath="$PROJECT_DIR$/500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-us.html" afterPath="$PROJECT_DIR$/about-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agencies-listing.html" afterPath="$PROJECT_DIR$/agencies-listing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agency-detail.html" afterPath="$PROJECT_DIR$/agency-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agent-detail.html" afterPath="$PROJECT_DIR$/agent-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agents-listing.html" afterPath="$PROJECT_DIR$/agents-listing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/php/contact.php" afterPath="$PROJECT_DIR$/assets/php/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-detail.html" afterPath="$PROJECT_DIR$/blog-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookmarked.html" afterPath="$PROJECT_DIR$/bookmarked.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create-account.html" afterPath="$PROJECT_DIR$/create-account.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create-agency.html" afterPath="$PROJECT_DIR$/create-agency.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-advanced-horizontal-search.html" afterPath="$PROJECT_DIR$/index-advanced-horizontal-search.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-google-map-fixed-height.html" afterPath="$PROJECT_DIR$/index-google-map-fixed-height.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-google-map-fixed-navigation.html" afterPath="$PROJECT_DIR$/index-google-map-fixed-navigation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-google-map-fullscreen.html" afterPath="$PROJECT_DIR$/index-google-map-fullscreen.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-horizontal-search-floated.html" afterPath="$PROJECT_DIR$/index-horizontal-search-floated.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-osm-fixed-height.html" afterPath="$PROJECT_DIR$/index-osm-fixed-height.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-osm-fixed-navigation.html" afterPath="$PROJECT_DIR$/index-osm-fixed-navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-osm.html" afterPath="$PROJECT_DIR$/index-osm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-slider-horizontal-search-box-floated.html" afterPath="$PROJECT_DIR$/index-slider-horizontal-search-box-floated.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-slider-horizontal-search-box.html" afterPath="$PROJECT_DIR$/index-slider-horizontal-search-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-slider-search-box.html" afterPath="$PROJECT_DIR$/index-slider-search-box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-slider.html" afterPath="$PROJECT_DIR$/index-slider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/invoice-print.html" afterPath="$PROJECT_DIR$/invoice-print.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/left-sidebar.html" afterPath="$PROJECT_DIR$/left-sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-properties.html" afterPath="$PROJECT_DIR$/my-properties.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile.html" afterPath="$PROJECT_DIR$/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties-listing-grid.html" afterPath="$PROJECT_DIR$/properties-listing-grid.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties-listing-lines.html" afterPath="$PROJECT_DIR$/properties-listing-lines.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties-listing.html" afterPath="$PROJECT_DIR$/properties-listing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/property-detail.html" afterPath="$PROJECT_DIR$/property-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/right-sidebar.html" afterPath="$PROJECT_DIR$/right-sidebar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rtl.html" afterPath="$PROJECT_DIR$/rtl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="$PROJECT_DIR$/shortcodes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sign-in.html" afterPath="$PROJECT_DIR$/sign-in.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sticky-footer.html" afterPath="$PROJECT_DIR$/sticky-footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submit.html" afterPath="$PROJECT_DIR$/submit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terms-conditions.html" afterPath="$PROJECT_DIR$/terms-conditions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thank-you.html" afterPath="$PROJECT_DIR$/thank-you.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeline.html" afterPath="$PROJECT_DIR$/timeline.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,18 +71,28 @@
       <file leaf-file-name="index-google-map-fullscreen.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-google-map-fullscreen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="1046" column="62" lean-forward="true" selection-start-line="1046" selection-start-column="62" selection-end-line="1046" selection-end-column="62" />
+            <state relative-caret-position="331">
+              <caret line="1062" column="40" lean-forward="false" selection-start-line="1062" selection-start-column="40" selection-end-line="1062" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="403.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="403.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/403.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="124">
+              <caret line="56" column="88" lean-forward="false" selection-start-line="56" selection-start-column="88" selection-end-line="56" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -49,14 +101,31 @@
       <file leaf-file-name="index-google-map-fixed-height.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-google-map-fixed-height.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="867" column="40" lean-forward="false" selection-start-line="867" selection-start-column="40" selection-end-line="867" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index-advanced-horizontal-search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-advanced-horizontal-search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="974" column="40" lean-forward="false" selection-start-line="974" selection-start-column="40" selection-end-line="974" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yukodit-logo.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/yukodit-logo.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -66,11 +135,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index-google-map-fixed-navigation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-google-map-fixed-navigation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="867" column="40" lean-forward="false" selection-start-line="867" selection-start-column="40" selection-end-line="867" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="about-us.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about-us.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
-              <caret line="56" column="55" lean-forward="true" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+              <caret line="56" column="55" lean-forward="false" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -95,16 +174,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>map-googl</find>
-      <find>map-google</find>
-      <find>createHomepageGoogleMap</find>
-      <find>\&lt;script async defer src\=\&quot;https\:\/\/maps\.googleapis\.com\/maps\/api\/js\?key\=AIzaSyBL\-gX\-3rkfZvjEOaTZ_\-yPp5yYG5EATa8\&amp;callback\=initMap\&quot;\n        type\=\&quot;text\/javascript\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script\&gt;</find>
-      <find>m</find>
-      <find>map</find>
-      <find>map-f</find>
-      <find>map-full</find>
-      <find>https://maps.googleapis.com/maps/api/j</find>
-      <find>g</find>
       <find>google</find>
       <find>googleap</find>
       <find>AIzaSyAhVhTEfD4MONjeZfYDRSeeOPMxpGNgt8E</find>
@@ -125,11 +194,24 @@
       <find>http:maps.google.com</find>
       <find>http:/maps.google.com</find>
       <find>http://maps.google.com</find>
+      <find>z</find>
+      <find>zon</find>
+      <find>zoner</find>
+      <find>l</find>
+      <find>lo</find>
+      <find>logo</find>
+      <find>logo.</find>
+      <find>logo.p</find>
+      <find>logo.png</find>
+      <find>yukodit-logo.jpg</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>https://fonts.googleapis.com</replace>
       <replace>https://maps.google.com</replace>
+      <replace>Community Safe Space</replace>
+      <replace>yukodit-logo.jpg</replace>
+      <replace>yukodit-logo-small.png</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -144,10 +226,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index-google-map-fixed-height.html" />
-        <option value="$PROJECT_DIR$/index-google-map-fullscreen.html" />
-        <option value="$PROJECT_DIR$/403.html" />
         <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index-google-map-fullscreen.html" />
+        <option value="$PROJECT_DIR$/index-google-map-fixed-navigation.html" />
+        <option value="$PROJECT_DIR$/index-google-map-fixed-height.html" />
+        <option value="$PROJECT_DIR$/index-advanced-horizontal-search.html" />
+        <option value="$PROJECT_DIR$/403.html" />
       </list>
     </option>
   </component>
@@ -193,6 +278,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="communitySafeSpace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="communitySafeSpace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="communitySafeSpace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="communitySafeSpace" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -204,6 +321,14 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="SearchEverywhereHistoryKey" value="inde&#9;FILE&#9;file://C:/Users/mwhal/WebstormProjects/communitySafeSpace/index-google-map-fullscreen.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mwhal\WebstormProjects\communitySafeSpace\assets\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mwhal\WebstormProjects\communitySafeSpace\assets\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -323,7 +448,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517156984847</updated>
-      <workItem from="1517156987353" duration="5477000" />
+      <workItem from="1517156987353" duration="6312000" />
     </task>
     <task id="LOCAL-00001" summary="update to https">
       <created>1517162283224</created>
@@ -332,11 +457,18 @@
       <option name="project" value="LOCAL" />
       <updated>1517162283224</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update to https">
+      <created>1517162809389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517162809389</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5477000" />
+    <option name="totallyTimeSpent" value="6312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -379,7 +511,7 @@
     <entry file="file://$PROJECT_DIR$/about-us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="56" column="55" lean-forward="true" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+          <caret line="56" column="55" lean-forward="false" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -397,34 +529,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-google-map-fullscreen.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="1046" column="62" lean-forward="true" selection-start-line="1046" selection-start-column="62" selection-end-line="1046" selection-end-column="62" />
+        <state relative-caret-position="133">
+          <caret line="430" column="36" lean-forward="false" selection-start-line="430" selection-start-column="36" selection-end-line="430" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/403.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-google-map-fullscreen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="1062" column="40" lean-forward="false" selection-start-line="1062" selection-start-column="40" selection-end-line="1062" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-google-map-fixed-navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="867" column="40" lean-forward="false" selection-start-line="867" selection-start-column="40" selection-end-line="867" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-google-map-fixed-height.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="867" column="40" lean-forward="false" selection-start-line="867" selection-start-column="40" selection-end-line="867" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="file://$PROJECT_DIR$/index-advanced-horizontal-search.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="430" column="36" lean-forward="false" selection-start-line="430" selection-start-column="36" selection-end-line="430" selection-end-column="36" />
+        <state relative-caret-position="331">
+          <caret line="974" column="40" lean-forward="false" selection-start-line="974" selection-start-column="40" selection-end-line="974" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/yukodit-logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/403.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="56" column="88" lean-forward="false" selection-start-line="56" selection-start-column="88" selection-end-line="56" selection-end-column="88" />
           <folding />
         </state>
       </provider>
