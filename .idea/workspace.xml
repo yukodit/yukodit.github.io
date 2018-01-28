@@ -3,52 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="f7862159-3482-4c3c-b132-d7a85a3eb680" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/403.html" afterPath="$PROJECT_DIR$/403.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/500.html" afterPath="$PROJECT_DIR$/500.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-us.html" afterPath="$PROJECT_DIR$/about-us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agencies-listing.html" afterPath="$PROJECT_DIR$/agencies-listing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agency-detail.html" afterPath="$PROJECT_DIR$/agency-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agent-detail.html" afterPath="$PROJECT_DIR$/agent-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/agents-listing.html" afterPath="$PROJECT_DIR$/agents-listing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-detail.html" afterPath="$PROJECT_DIR$/blog-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.html" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookmarked.html" afterPath="$PROJECT_DIR$/bookmarked.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create-account.html" afterPath="$PROJECT_DIR$/create-account.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create-agency.html" afterPath="$PROJECT_DIR$/create-agency.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-advanced-horizontal-search.html" afterPath="$PROJECT_DIR$/index-advanced-horizontal-search.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-google-map-fixed-height.html" afterPath="$PROJECT_DIR$/index-google-map-fixed-height.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-google-map-fixed-navigation.html" afterPath="$PROJECT_DIR$/index-google-map-fixed-navigation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-google-map-fullscreen.html" afterPath="$PROJECT_DIR$/index-google-map-fullscreen.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-horizontal-search-floated.html" afterPath="$PROJECT_DIR$/index-horizontal-search-floated.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-osm-fixed-height.html" afterPath="$PROJECT_DIR$/index-osm-fixed-height.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-osm-fixed-navigation.html" afterPath="$PROJECT_DIR$/index-osm-fixed-navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-osm.html" afterPath="$PROJECT_DIR$/index-osm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-slider-horizontal-search-box-floated.html" afterPath="$PROJECT_DIR$/index-slider-horizontal-search-box-floated.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-slider-horizontal-search-box.html" afterPath="$PROJECT_DIR$/index-slider-horizontal-search-box.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-slider-search-box.html" afterPath="$PROJECT_DIR$/index-slider-search-box.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-slider.html" afterPath="$PROJECT_DIR$/index-slider.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/invoice-print.html" afterPath="$PROJECT_DIR$/invoice-print.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/left-sidebar.html" afterPath="$PROJECT_DIR$/left-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-properties.html" afterPath="$PROJECT_DIR$/my-properties.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pricing.html" afterPath="$PROJECT_DIR$/pricing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profile.html" afterPath="$PROJECT_DIR$/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties-listing-grid.html" afterPath="$PROJECT_DIR$/properties-listing-grid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties-listing-lines.html" afterPath="$PROJECT_DIR$/properties-listing-lines.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/properties-listing.html" afterPath="$PROJECT_DIR$/properties-listing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/property-detail.html" afterPath="$PROJECT_DIR$/property-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/right-sidebar.html" afterPath="$PROJECT_DIR$/right-sidebar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rtl.html" afterPath="$PROJECT_DIR$/rtl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="$PROJECT_DIR$/shortcodes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sign-in.html" afterPath="$PROJECT_DIR$/sign-in.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sticky-footer.html" afterPath="$PROJECT_DIR$/sticky-footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submit.html" afterPath="$PROJECT_DIR$/submit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terms-conditions.html" afterPath="$PROJECT_DIR$/terms-conditions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thank-you.html" afterPath="$PROJECT_DIR$/thank-you.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeline.html" afterPath="$PROJECT_DIR$/timeline.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="403.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="403.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/403.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
@@ -86,8 +49,18 @@
       <file leaf-file-name="index-google-map-fixed-height.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-google-map-fixed-height.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9435">
-              <caret line="555" column="0" lean-forward="false" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="430" column="36" lean-forward="false" selection-start-line="430" selection-start-column="36" selection-end-line="430" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -122,19 +95,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>maps</find>
-      <find>k</find>
-      <find>key</find>
-      <find>map-</find>
-      <find>map-g</find>
-      <find>map-go</find>
-      <find>map-goog</find>
       <find>map-googl</find>
       <find>map-google</find>
       <find>createHomepageGoogleMap</find>
       <find>\&lt;script async defer src\=\&quot;https\:\/\/maps\.googleapis\.com\/maps\/api\/js\?key\=AIzaSyBL\-gX\-3rkfZvjEOaTZ_\-yPp5yYG5EATa8\&amp;callback\=initMap\&quot;\n        type\=\&quot;text\/javascript\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script\&gt;</find>
       <find>m</find>
-      <find>ma</find>
       <find>map</find>
       <find>map-f</find>
       <find>map-full</find>
@@ -147,10 +112,24 @@
       <find>font</find>
       <find>fonts.</find>
       <find>http://fonts.googleapis.com</find>
+      <find>fonts.googleapis.com</find>
+      <find>ma</find>
+      <find>maps.goog</find>
+      <find>maps.google</find>
+      <find>maps.google.</find>
+      <find>maps.google.com</find>
+      <find>hmaps.google.com</find>
+      <find>htmaps.google.com</find>
+      <find>httmaps.google.com</find>
+      <find>httpmaps.google.com</find>
+      <find>http:maps.google.com</find>
+      <find>http:/maps.google.com</find>
+      <find>http://maps.google.com</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>https://fonts.googleapis.com</replace>
+      <replace>https://maps.google.com</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -158,6 +137,9 @@
     <option name="PUSH_TAGS">
       <GitPushTagMode />
     </option>
+    <push-targets>
+      <push-target-info target-remote="public" target-branch="master" repo="$PROJECT_DIR$" source="master" />
+    </push-targets>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,6 +147,7 @@
         <option value="$PROJECT_DIR$/index-google-map-fixed-height.html" />
         <option value="$PROJECT_DIR$/index-google-map-fullscreen.html" />
         <option value="$PROJECT_DIR$/403.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -340,12 +323,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517156984847</updated>
-      <workItem from="1517156987353" duration="4913000" />
+      <workItem from="1517156987353" duration="5477000" />
     </task>
+    <task id="LOCAL-00001" summary="update to https">
+      <created>1517162283224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517162283224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4913000" />
+    <option name="totallyTimeSpent" value="5477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -374,19 +365,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="update to https" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to https" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index-google-map-fixed-height.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9435">
-          <caret line="555" column="0" lean-forward="false" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about-us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -420,6 +409,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-google-map-fixed-height.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="430" column="36" lean-forward="false" selection-start-line="430" selection-start-column="36" selection-end-line="430" selection-end-column="36" />
           <folding />
         </state>
       </provider>
